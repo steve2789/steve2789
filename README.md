@@ -1,6 +1,8 @@
 # Steven Lebron
 ### Systems Engineer | Industrial Operations & AI Infrastructure Architect
 
+**ASME Certified POC Mechanical Systems Auditor** | **SME Certified DFM Specialist** | **MaintainX & UpKeep Partner Network CMMS Administrator**
+
 Professional systems engineering, automated data infrastructure scaffolding, and turnkey digital infrastructure operations. Developing production-grade database architectures, 2D-to-3D geometric repair toolchains, and multi-node enterprise synchronization pipelines.
 
 ---
@@ -40,6 +42,6 @@ This profile serves as a technical verification layer and public open-source sca
 ---
 
 ## 📄 OPERATIONAL UTILITY & SECURITY COMPLIANCE
-* All systems engineering assets run on an asynchronous, flat-file model requiring $0.00 baseline software subscription overhead.
-* Complete integration architectures rely strictly on localized public data parsing and standard, authenticated API interfaces.
-* Cyber security testing, network vulnerability scanning, active hardware control manipulation, or unauthenticated script scraping features are permanently excluded from all repository modules.
+* **Asynchronous Execution:** All systems engineering assets run on a productized, asynchronous, flat-file model requiring $0.00 baseline software subscription overhead. 
+* **Zero Meetings Policy:** To maintain maximum delivery velocity and clear technical execution, real-time consultation calls or live video/audio meetings are not supported. Operations are completely data-driven.
+* **Security Boundaries:** Complete integration architectures rely strictly on localized public data parsing and standard, authenticated API interfaces. Cyber security testing, network boundary penetration testing, active hardware control manipulation, or unauthenticated script scraping features are permanently excluded from all repository modules.
